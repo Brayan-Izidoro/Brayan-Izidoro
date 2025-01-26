@@ -11,6 +11,7 @@ Aqui estão alguns dos projetos que estou desenvolvendo:
 - **[Desafio do Amigo Secreto](https://github.com/Brayan-Izidoro/desafio-do-amigo-secreto)**: Um jogo interativo para sorteios de amigo secreto, feito com **HTML**, **CSS** e **JavaScript**.
 - **[Aula de Python](https://github.com/Brayan-Izidoro/Aula-de-Python)**: Repositório com exemplos e exercícios para aprimorar minha lógica de programação em **Python**.
 - **[Projeto de Blog de Fotos](https://github.com/Brayan-Izidoro/blog-de-fotos)**: Desenvolvido durante a **Imersão Back-End** da **Alura**, focando em **Node.js** e **MongoDB**.
+- **[Jogo do Número Secreto](https://github.com/Brayan-Izidoro/jogo-do-numero-secreto)**: Jogo simples feito em **JavaScript** para adivinhar um número gerado aleatoriamente.
 
 ## 📚 Tecnologias que Utilizo
 
